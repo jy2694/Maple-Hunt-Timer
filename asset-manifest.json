@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.760fccbc.css",
-    "main.js": "/static/js/main.c0f87b19.js",
-    "static/js/787.0a4e8fc8.chunk.js": "/static/js/787.0a4e8fc8.chunk.js",
-    "static/media/2HourVoice.mp3": "/static/media/2HourVoice.b253c7ea00220838980e.mp3",
-    "static/media/1_5HourVoice.mp3": "/static/media/1_5HourVoice.6d75dca8f829a064865d.mp3",
-    "static/media/1HourVoice.mp3": "/static/media/1HourVoice.036b803157b89e97b0f1.mp3",
-    "static/media/number-2.png": "/static/media/number-2.92629e092bfd1d2ffddf.png",
-    "static/media/0_5HourVoice.mp3": "/static/media/0_5HourVoice.b0e69c1d6edcefa7bfd0.mp3",
-    "static/media/TestVoice.mp3": "/static/media/TestVoice.b7c3f9842f19b9d81f37.mp3",
-    "static/media/getItemVoice.mp3": "/static/media/getItemVoice.62cb0ff4a30cae05bfd6.mp3",
-    "static/media/number-1.png": "/static/media/number-1.16dfe5902e66fa981081.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.760fccbc.css.map": "/static/css/main.760fccbc.css.map",
-    "main.c0f87b19.js.map": "/static/js/main.c0f87b19.js.map",
-    "787.0a4e8fc8.chunk.js.map": "/static/js/787.0a4e8fc8.chunk.js.map"
+    "main.css": "./static/css/main.760fccbc.css",
+    "main.js": "./static/js/main.c96df2bd.js",
+    "static/js/787.0a4e8fc8.chunk.js": "./static/js/787.0a4e8fc8.chunk.js",
+    "static/media/2HourVoice.mp3": "./static/media/2HourVoice.b253c7ea00220838980e.mp3",
+    "static/media/1_5HourVoice.mp3": "./static/media/1_5HourVoice.6d75dca8f829a064865d.mp3",
+    "static/media/1HourVoice.mp3": "./static/media/1HourVoice.036b803157b89e97b0f1.mp3",
+    "static/media/number-2.png": "./static/media/number-2.92629e092bfd1d2ffddf.png",
+    "static/media/0_5HourVoice.mp3": "./static/media/0_5HourVoice.b0e69c1d6edcefa7bfd0.mp3",
+    "static/media/TestVoice.mp3": "./static/media/TestVoice.b7c3f9842f19b9d81f37.mp3",
+    "static/media/getItemVoice.mp3": "./static/media/getItemVoice.62cb0ff4a30cae05bfd6.mp3",
+    "static/media/number-1.png": "./static/media/number-1.16dfe5902e66fa981081.png",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.760fccbc.css.map": "./static/css/main.760fccbc.css.map",
+    "main.c96df2bd.js.map": "./static/js/main.c96df2bd.js.map",
+    "787.0a4e8fc8.chunk.js.map": "./static/js/787.0a4e8fc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.760fccbc.css",
-    "static/js/main.c0f87b19.js"
+    "static/js/main.c96df2bd.js"
   ]
 }
